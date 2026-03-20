@@ -30,6 +30,8 @@ SafeWall addresses this by:
 The dataset contains HPC jobs from the **Theta** supercomputer at Argonne National Laboratory,
 covering a **7-year period (2017–2023)**. The scheduler is Cobalt; MaxNodes = 4,392.
 
+https://reports.alcf.anl.gov/data/theta.html#THETA_HARDWARE_ERROR
+
 ### Files
 
 | File | Description |
