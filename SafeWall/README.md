@@ -102,7 +102,7 @@ historical features (NaN for new users) well without requiring explicit preproce
 
 ### Train-Test Split
 
-80% training / 20% test, random split with `random_state=42`.
+80% training / 20% test
 
 ---
 
